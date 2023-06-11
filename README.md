@@ -13,7 +13,9 @@
 
 ## Intro
 ***
-Welcome to my portfolio! My name is Bram Verkuijlen, and I am delighted to present my individual project for the 3rd semester of ICT at Fontys University. Throughout this semester, I have dedicated my efforts to creating a web application called Game Adviser. This innovative application aims to simplify the decision-making process when it comes to choosing which game to play. By leveraging user input on their current interests, Game Adviser provides tailored recommendations, ensuring that the question "But what game?" won't have to be asked ever again.
+Hello! and welcome to my porftolio for HBO-ICT & Software semster 3. For this semester I worked on the Grocery shopping scraper.
+Grocery shopping now a days feels like this gif above. Everything is expensive and trying to figure out where to buy the cheapest products is a hassle. I used to try to keep track of this inside an gaint spreadsheet, but the scope of my sheet grew larger and larger to the point it was becoming more work to keep track of everything, so I gave up with this project.
+This has inspired me to create an application that keeps track of all the prices of products in the different grocery stores. Jumbo, Albert Hein, Lidl, Aldi etc. Everything inside one platform for you to keep track of prices and plan your grocery shopping experience as efficiently as possible.
 
 ## Projects
 ***
