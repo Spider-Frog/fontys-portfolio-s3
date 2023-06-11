@@ -2,7 +2,7 @@
 You **design and implement** a (semi)automated software release prcoess that matches the needs of the project context.
 
 ## What is CI/CD
-<img src="idc" alt="CI/CD pipeline example" width="50%" height="50%" />
+<img src="https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Images/CI-CD.png?raw=true" alt="CI/CD pipeline example" width="50%" height="50%" />
 
 CI/CD is a software development practice that involves automating the integration, testing, and deployment of code changes, allowing for faster and more reliable releases.
 

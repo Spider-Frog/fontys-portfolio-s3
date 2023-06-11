@@ -34,7 +34,7 @@ This has inspired me to create an application that keeps track of all the prices
 |Web Application| No link yet
 |Software quality| No link yet
 |Agile Method| No link yet
-|CI/CD| No link yet
+|CI/CD| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/CI-CD.md)
 |Cultural differences and ethics| No link yet
 |Requirements and design| No link yet
 |Business processes| No link yet
