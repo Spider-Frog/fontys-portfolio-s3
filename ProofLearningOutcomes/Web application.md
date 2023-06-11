@@ -11,9 +11,6 @@ During the development of my web application, I regularly used feedback from my 
 
 For my individual project, I created a full stack web application.
 
-Overview of the services:
-<img src="https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Images/arch_grocery-market-scraper.png?raw=true" alt="Overview of the services:" width="50%" height="50%" />
-
 ### Front end
 The front end is built with Vue 3 + TypeScript. I chose Vue because I'm very comfortable with the framework. I have 2 years of experience with it already, and I can easily and reliably build a fully functioning front-end application. The entire front end is also written in TypeScript for easy syntax highlighting and type safety inside my code.
 
@@ -25,3 +22,7 @@ The back end is made with the FastAPI framework written in Python 3. Over the ye
 
 #### Proof
 - [Github repository](https://github.com/S3-Grocery-Market-Scraper/backend)
+
+
+### Overview of the services
+<img src="https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Images/arch_grocery-market-scraper.png?raw=true" alt="Overview of the services:" width="50%" height="50%" />
