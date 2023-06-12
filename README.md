@@ -31,12 +31,12 @@ This has inspired me to create an application that keeps track of all the prices
 [Click here]() for an overview of all learning outcomes for this semester. No Link
 | Learning Outcome | Proof |
 |:-----------------|:-----:|
-|Web Application| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Web%20application.md)
+|Web Application| [🔗# Web application](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Web%20application.md)
 |Software quality| No link yet
 |Agile Method| No link yet
 |CI/CD| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/CI-CD.md)
 |Cultural differences and ethics| No link yet
-|Requirements and design| No link yet
+|Requirements and design| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Requirements%20and%20design.md)
 |Business processes| No link yet
 |Professional| No link yet
 
