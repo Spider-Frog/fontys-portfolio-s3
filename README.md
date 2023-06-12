@@ -28,7 +28,6 @@ This has inspired me to create an application that keeps track of all the prices
 
 ## Proof of Learning Outcomes
 ***
-[Click here]() for an overview of all learning outcomes for this semester. No Link
 | Learning Outcome | Proof |
 |:-----------------|:-----:|
 |Web Application| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Web%20application.md)
@@ -37,7 +36,7 @@ This has inspired me to create an application that keeps track of all the prices
 |CI/CD| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/CI-CD.md)
 |Cultural differences and ethics| No link yet
 |Requirements and design| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Requirements%20and%20design.md)
-|Business processes| No link yet
+|Business processes| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Business%20processes.md)
 |Professional| No link yet
 
 ## Special credits
