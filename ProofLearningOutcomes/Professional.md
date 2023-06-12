@@ -15,4 +15,4 @@ Maintaining professionalism within a group project is paramount. In order to wor
 
 Throughout the group project, we diligently track all tasks and issues using the Jira board. Each item is organized under user stories, providing a clear focus for our collective efforts.
 
-During the sprint reviews, we engage in meaningful discussions with stakeholders, seeking their feedback and input to identify areas of improvement and prioritization. Subsequently, we hold group discussions to share our individual perspectives on what we liked, disliked, lacked, and aspired for during the sprint.
+During the sprint reviews, we engage in meaningful discussions with stakeholders, seeking their feedback and input to identify areas of improvement and prioritization. Subsequently, we hold group discussions to share our individual perspectives on what we liked, learnt, lacked, and longed for during the sprint.
