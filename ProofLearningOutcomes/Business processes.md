@@ -4,7 +4,7 @@
 
 ## Business process chart
 
-<img src="https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Images/business_process.png?raw=true" alt="Business process chart" width="50%" height="50%" />
+<img src="https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Images/business_process.png?raw=true" alt="Business process chart" />
 
 A simple chart that shows the business project for my application.
 - Shopper: The person that wants to know the cheapest products comparison.
