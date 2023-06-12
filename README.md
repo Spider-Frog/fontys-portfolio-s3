@@ -37,7 +37,7 @@ This has inspired me to create an application that keeps track of all the prices
 |Cultural differences and ethics| No link yet
 |Requirements and design| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Requirements%20and%20design.md)
 |Business processes| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Business%20processes.md)
-|Professional| No link yet
+|Professional| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Professional.md)
 
 ## Special credits
 ***
