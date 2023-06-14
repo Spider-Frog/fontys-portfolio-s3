@@ -1,6 +1,25 @@
 # GraphQL vs REST API
 
+<img src="https://images.ctfassets.net/fo9twyrwpveg/w7OPcsNYiWquQY8YuUAq8/5ce2c0125423aff8927f85654da34bee/5-Jul-GraphQL-AST.png?&q=90&w=1028&fm=avif" alt="Cool GraphQL image" />
 
+- [1 Introduction](#1-introduction)
+- [2 The problem with REST](#2-the-problem-with-rest)
+  - [2.1 Overfetching](#21-overfetching)
+  - [2.2 Tight coupling](#22-tight-coupling)
+- [3 What does GraphQL solve?](#3-what-does-graphql-solve)
+  - [3.1 Single call](#31-single-call)
+  - [3.2 Client decides the data](#32-client-decides-the-data)
+- [4 The drawbacks of GraphQL](#4-the-drawbacks-of-graphql)
+  - [4.1 High learning curve](#41-high-learning-curve)
+  - [4.2 Caching](#42-caching)
+- [5 When to use GraphQL](#5-when-to-use-graphql)
+- [6 Conclusion](#6-conclusion)
+- [7 Sources](#7-sources)
+- [8 Acknowledgements](#8-acknowledgements)
+
+# 1 Introduction
+
+The choice between GraphQL and REST API architectures has become a significant consideration for developers when designing and implementing web APIs. Both approaches offer unique advantages and drawbacks, making it crucial to understand their characteristics and evaluate their suitability for specific project requirements. In this paper, we explore the key differences between GraphQL and REST, highlighting the challenges posed by REST and the solutions provided by GraphQL. We also examine the drawbacks associated with GraphQL and discuss the scenarios in which each approach is most effective.
 
 # 2 The problem with REST
 
@@ -14,7 +33,7 @@ Moreover, the issue of overfetching can exacerbate when the user endpoint is des
 
 The adverse consequences of overfetching highlight the importance of optimizing API design to mitigate these challenges. By tailoring the response to include only the required attributes, such as the user's name and email, unnecessary data can be avoided. Implementing strategies like selective field inclusion or utilizing separate endpoints for specific data needs can help address overfetching issues. Such measures minimize payload size, streamline network communication, and enhance overall system performance. [[1]](https://www.freecodecamp.org/news/graphql-vs-rest-api/)
 
-## 2.2 Thight coupling
+## 2.2 Tight coupling
 
 While utilizing custom controllers in a RESTful architecture may seem appealing at first, it is important to acknowledge a significant drawback associated with this approach. The primary concern stems from the tight coupling that emerges between the front-end view and the back-end controller, which introduces challenges when adapting to changes on the client side and restricts flexibility.
 
@@ -64,7 +83,7 @@ REST APIs offer the advantage of configuring a web cache to match specific URL p
 
 In contrast, GraphQL typically relies on a single endpoint, often an HTTP POST endpoint, where all queries are sent. Due to the dynamic nature of GraphQL queries, it becomes more challenging to implement traditional caching strategies. Each GraphQL query can be unique, making it harder to cache and reuse responses. [[5]](https://blog.logrocket.com/graphql-vs-rest-api-why-you-shouldnt-use-graphql/#web-cache)
 
-# When to use GraphQL
+# 5 When to use GraphQL
 
 While GraphQL offers significant advantages, it may not always be the optimal choice, particularly when developing small and straightforward APIs with only a few endpoints. In such cases, REST may prove simpler and more suitable, preventing unnecessary code complexity.
 
@@ -74,13 +93,13 @@ Additionally, GraphQL possesses a self-documenting nature, which proves advantag
 
 It's important to assess the specific needs and complexity of the API being developed to determine whether GraphQL or REST is the most suitable choice. Smaller, simpler APIs may benefit from the straightforwardness and ease of REST, whereas larger APIs with complex data structures can leverage GraphQL's capabilities for efficient data retrieval and schema evolution.
 
-# 5 Conclusion
+# 6 Conclusion
 
 In conclusion, the choice between GraphQL and REST depends on the specific requirements and complexities of the API being developed. While REST is suitable for small and simple APIs, GraphQL excels in larger projects with complex data structures and multiple interconnected tables. REST APIs may suffer from overfetching and tight coupling, resulting in inefficient data transfer and difficulties in adapting to changing client needs. On the other hand, GraphQL solves these challenges by allowing precise data retrieval in a single request and providing flexibility in tailoring requests.
 
 Although GraphQL has a higher learning curve initially, it offers benefits such as efficient data retrieval, schema evolution, and self-documentation. As developers become familiar with GraphQL, they can leverage its power to optimize API responses and simplify data retrieval compared to REST. However, caching can be more challenging with GraphQL due to the dynamic nature of queries. Therefore, the choice between GraphQL and REST should be based on the size, complexity, and anticipated changes of the API. While REST is suitable for simpler APIs, GraphQL's advantages become more prominent in larger projects where precise data retrieval, flexibility, and schema evolution are crucial.
 
-# 6 Sources
+# 7 Sources
 
 [1] Source: "GraphQL vs REST API – Which Should You Use for Back End API Development?", freecodecamp.org, https://www.freecodecamp.org/news/graphql-vs-rest-api/
 
@@ -92,6 +111,6 @@ Although GraphQL has a higher learning curve initially, it offers benefits such 
 
 [5] Source: "GraphQL vs. REST APIs: Why you shouldn’t use GraphQL", logrocket.com, https://blog.logrocket.com/graphql-vs-rest-api-why-you-shouldnt-use-graphql/#graphql-tasks-complex
 
-# 7 Acknowledgements
+# 8 Acknowledgements
 
 This project was made possible with the assistance of ChatGPT, an AI language model developed by OpenAI.
