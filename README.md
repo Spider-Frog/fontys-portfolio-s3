@@ -24,7 +24,7 @@ This has inspired me to create an application that keeps track of all the prices
 
 ## Research documents
 ***
-- No researchs documents yet :(
+- [GraphQL vs Rest](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/Research/GraphQL%20vs%20Rest.md)
 
 ## Proof of Learning Outcomes
 ***
