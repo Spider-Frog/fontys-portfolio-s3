@@ -31,7 +31,7 @@ This has inspired me to create an application that keeps track of all the prices
 | Learning Outcome | Proof |
 |:-----------------|:-----:|
 |Web Application| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Web%20application.md)
-|Software quality| No link yet
+|Software quality| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Software%20quality.md)
 |Agile Method| No link yet
 |CI/CD| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/CI-CD.md)
 |Cultural differences and ethics| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Cultural%20differences%20and%20ethics.md)
