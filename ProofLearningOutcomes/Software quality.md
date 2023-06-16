@@ -7,18 +7,18 @@ To maintain software quality within my project, I have employed several methods:
 
 For the Backend API, I implemented integration testing. Initially, there were challenges in setting it up due to the asynchronous nature of Python's async/await system. However, I persevered and successfully configured the testing environment. Each test begins by making a call to the database to set up the necessary testing environment and then proceeds to test the endpoint or GraphQL query. You can refer to the code snippet below:
 
-<img src="https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Images/integration_tests_code.png?raw=true" alt="Integration tests code" width="50%" height="50%" />
+<img src="https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Images/integration_tests_code.png?raw=true" alt="Integration tests code" />
 
 The screenshot provided showcases an example of successful integration tests for the GraphQL queries related to companies.
 
-<img src="https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Images/integration_tests_passed.png?raw=true" alt="Integration tests passed" width="50%" height="50%" />
+<img src="https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Images/integration_tests_passed.png?raw=true" alt="Integration tests passed" />
 
 
 ## Component tests
 
 For the frontend, I implemented component testing to ensure that the components I developed properly mount on the page. This testing approach helps validate the behavior and rendering of individual components. You can refer to the code snippet below:
 
-<img src="https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Images/component_tests_code.png?raw=true" alt="Component tests code" width="50%" height="50%" />
+<img src="https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Images/component_tests_code.png?raw=true" alt="Component tests code" />
 
 ## CI
 
