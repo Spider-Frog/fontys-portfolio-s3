@@ -9,7 +9,9 @@ For the Backend API, I implemented integration testing. Initially, there were ch
 
 <img src="https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Images/integration_tests_code.png?raw=true" alt="Integration tests code" width="50%" height="50%" />
 
-The screenshot provided showcases an example of successful integration tests for the GraphQL queries related to companies.<img src="https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Images/integration_tests_passed.png?raw=true" alt="Integration tests passed" width="50%" height="50%" />
+The screenshot provided showcases an example of successful integration tests for the GraphQL queries related to companies.
+
+<img src="https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Images/integration_tests_passed.png?raw=true" alt="Integration tests passed" width="50%" height="50%" />
 
 
 ## Component tests
