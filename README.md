@@ -32,7 +32,7 @@ This has inspired me to create an application that keeps track of all the prices
 |:-----------------|:-----:|
 |Web Application| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Web%20application.md)
 |Software quality| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Software%20quality.md)
-|Agile Method| No link yet
+|Agile Method| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Agile%20method.md)
 |CI/CD| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/CI-CD.md)
 |Cultural differences and ethics| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Cultural%20differences%20and%20ethics.md)
 |Requirements and design| [🔗](https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Requirements%20and%20design.md)
