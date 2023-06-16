@@ -13,7 +13,7 @@ During the group project, we conducted retrospectives using the 4 Ls method. Thi
 
 Here are our retrospectives for sprint 2:
 
-<img src="https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Images/retrospective_sprint_2.pngF?raw=true" alt="Retrospective sprint 2" width="50%" height="50%" />
+<img src="https://github.com/Spider-Frog/fontys-portfolio-s3/blob/main/ProofLearningOutcomes/Images/retrospective_sprint_2.png?raw=true" alt="Retrospective sprint 2" width="50%" height="50%" />
 
 One notable observation was the high level of comfort and rapport among the group members. This positive dynamic fostered a productive and collaborative environment, allowing us to work together seamlessly. Fortunately, we did not encounter any significant internal conflicts or issues that could hinder our progress or impact team morale.
 
